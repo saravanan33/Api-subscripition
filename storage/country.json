@@ -1,0 +1,2482 @@
+[
+    {
+        "country_id": 3,
+        "country_name": "Afghanistan",
+        "country_code": "AF",
+        "nationality": "Afghan",
+        "country_iata_code": "AF",
+        "phone_code": "+93",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 15,
+        "country_name": "Aland Islands",
+        "country_code": "AX",
+        "nationality": "Norwegian",
+        "country_iata_code": "AX",
+        "phone_code": "+358",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 6,
+        "country_name": "Albania",
+        "country_code": "AL",
+        "nationality": "Albanian",
+        "country_iata_code": "AL",
+        "phone_code": "+355",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 61,
+        "country_name": "Algeria",
+        "country_code": "DZ",
+        "nationality": "Algerian",
+        "country_iata_code": "DZ",
+        "phone_code": "+213",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 11,
+        "country_name": "American Samoa",
+        "country_code": "AS",
+        "nationality": "Samoan",
+        "country_iata_code": "AS",
+        "phone_code": "+1684",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 1,
+        "country_name": "Andorra",
+        "country_code": "AD",
+        "nationality": "Andorran",
+        "country_iata_code": "AD",
+        "phone_code": "+376",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 9,
+        "country_name": "Angola",
+        "country_code": "AO",
+        "nationality": "Angolan",
+        "country_iata_code": "AO",
+        "phone_code": "+244",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 5,
+        "country_name": "Anguilla",
+        "country_code": "AI",
+        "nationality": "Anguillan",
+        "country_iata_code": "AI",
+        "phone_code": "+1264",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 4,
+        "country_name": "Antigua and Barbuda",
+        "country_code": "AG",
+        "nationality": "Antiguan \/ Barbudan",
+        "country_iata_code": "AG",
+        "phone_code": "+1268",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 10,
+        "country_name": "Argentina",
+        "country_code": "AR",
+        "nationality": "Argentinian",
+        "country_iata_code": "AR",
+        "phone_code": "+54",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 7,
+        "country_name": "Armenia",
+        "country_code": "AM",
+        "nationality": "Armenian",
+        "country_iata_code": "AM",
+        "phone_code": "+374",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 14,
+        "country_name": "Aruba",
+        "country_code": "AW",
+        "nationality": "Aruban",
+        "country_iata_code": "AW",
+        "phone_code": "+297",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 13,
+        "country_name": "Australia",
+        "country_code": "AU",
+        "nationality": "Australian",
+        "country_iata_code": "AU",
+        "phone_code": "+61",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 12,
+        "country_name": "Austria",
+        "country_code": "AT",
+        "nationality": "Austrian",
+        "country_iata_code": "AT",
+        "phone_code": "+43",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 16,
+        "country_name": "Azerbaijan Republic",
+        "country_code": "AZ",
+        "nationality": "Azerbaijani",
+        "country_iata_code": "AZ",
+        "phone_code": "+994",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 32,
+        "country_name": "Bahamas",
+        "country_code": "BS",
+        "nationality": "Bahamian",
+        "country_iata_code": "BS",
+        "phone_code": "+1242",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 23,
+        "country_name": "Bahrain",
+        "country_code": "BH",
+        "nationality": "Bahraini",
+        "country_iata_code": "BH",
+        "phone_code": "+973",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 19,
+        "country_name": "Bangladesh",
+        "country_code": "BD",
+        "nationality": "Bangladeshi",
+        "country_iata_code": "BD",
+        "phone_code": "+880",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 18,
+        "country_name": "Barbados",
+        "country_code": "BB",
+        "nationality": "Barbadian",
+        "country_iata_code": "BB",
+        "phone_code": "+1246",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 35,
+        "country_name": "Belarus",
+        "country_code": "BY",
+        "nationality": "Belarusian",
+        "country_iata_code": "BY",
+        "phone_code": "+375",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 20,
+        "country_name": "Belgium",
+        "country_code": "BE",
+        "nationality": "Belgian",
+        "country_iata_code": "BE",
+        "phone_code": "+32",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 36,
+        "country_name": "Belize",
+        "country_code": "BZ",
+        "nationality": "Belizean",
+        "country_iata_code": "BZ",
+        "phone_code": "+501",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 25,
+        "country_name": "Benin,People's Republic of",
+        "country_code": "BJ",
+        "nationality": "Beninese",
+        "country_iata_code": "BJ",
+        "phone_code": "+229",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 27,
+        "country_name": "Bermuda",
+        "country_code": "BM",
+        "nationality": "Bermudian",
+        "country_iata_code": "BM",
+        "phone_code": "+1441",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 33,
+        "country_name": "Bhutan",
+        "country_code": "BT",
+        "nationality": "Bhutanese",
+        "country_iata_code": "BT",
+        "phone_code": "+975",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 29,
+        "country_name": "Bolivia",
+        "country_code": "BO",
+        "nationality": "Bolivian",
+        "country_iata_code": "BO",
+        "phone_code": "+591",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 30,
+        "country_name": "Bonaire, Sint Eustatius and Saba",
+        "country_code": "BQ",
+        "nationality": null,
+        "country_iata_code": "BQ",
+        "phone_code": "+599",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 17,
+        "country_name": "Bosnia and Herzegovina",
+        "country_code": "BA",
+        "nationality": "Bosnian \/ Herzegovinianc",
+        "country_iata_code": "BA",
+        "phone_code": "+387",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 34,
+        "country_name": "Botswana",
+        "country_code": "BW",
+        "nationality": "Botswanan",
+        "country_iata_code": "BW",
+        "phone_code": "+267",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 31,
+        "country_name": "Brazil",
+        "country_code": "BR",
+        "nationality": "Brazilian",
+        "country_iata_code": "BR",
+        "phone_code": "+55",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 295,
+        "country_name": "British India Ocean Teritorry",
+        "country_code": "IO",
+        "nationality": null,
+        "country_iata_code": "IO",
+        "phone_code": "+246",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 28,
+        "country_name": "Brunei Darussalam",
+        "country_code": "BN",
+        "nationality": "Bruneian",
+        "country_iata_code": "BN",
+        "phone_code": "+673",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 22,
+        "country_name": "Bulgaria",
+        "country_code": "BG",
+        "nationality": "Bulgarian",
+        "country_iata_code": "BG",
+        "phone_code": "+359",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 21,
+        "country_name": "Burkina Faso",
+        "country_code": "BF",
+        "nationality": "Burkinan",
+        "country_iata_code": "BF",
+        "phone_code": "+226",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 24,
+        "country_name": "Burundi, Republic of",
+        "country_code": "BI",
+        "nationality": "Burundian",
+        "country_iata_code": "BI",
+        "phone_code": "+257",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 112,
+        "country_name": "Cambodia",
+        "country_code": "KH",
+        "nationality": "Cambodian",
+        "country_iata_code": "KH",
+        "phone_code": "+855",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 46,
+        "country_name": "Cameroon",
+        "country_code": "CM",
+        "nationality": "Cameroonian",
+        "country_iata_code": "CM",
+        "phone_code": "+237",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 37,
+        "country_name": "Canada",
+        "country_code": "CA",
+        "nationality": "Canadian",
+        "country_iata_code": "CA",
+        "phone_code": "+1",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 51,
+        "country_name": "Cape Verde",
+        "country_code": "CV",
+        "nationality": "Cape Verdean",
+        "country_iata_code": "CV",
+        "phone_code": "+238",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 119,
+        "country_name": "Cayman Islands",
+        "country_code": "KY",
+        "nationality": "Cayman Islander",
+        "country_iata_code": "KY",
+        "phone_code": "+1345",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 40,
+        "country_name": "Central African Republic",
+        "country_code": "CF",
+        "nationality": "Central African",
+        "country_iata_code": "CF",
+        "phone_code": "+236",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 209,
+        "country_name": "Chad",
+        "country_code": "TD",
+        "nationality": "Chadian",
+        "country_iata_code": "TD",
+        "phone_code": "+235",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 45,
+        "country_name": "Chile",
+        "country_code": "CL",
+        "nationality": "Chilean",
+        "country_iata_code": "CL",
+        "phone_code": "+56",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 47,
+        "country_name": "China",
+        "country_code": "CN",
+        "nationality": "Chinese",
+        "country_iata_code": "CN",
+        "phone_code": "+86",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 53,
+        "country_name": "Christmas Island",
+        "country_code": "CX",
+        "nationality": "Christmas Islander",
+        "country_iata_code": "CX",
+        "phone_code": "+61",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 38,
+        "country_name": "Cocos (Keeling) Islands",
+        "country_code": "CC",
+        "nationality": "Cocos Islander",
+        "country_iata_code": "CC",
+        "phone_code": "+61",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 48,
+        "country_name": "Colombia",
+        "country_code": "CO",
+        "nationality": "Colombian",
+        "country_iata_code": "CO",
+        "phone_code": "+57",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 114,
+        "country_name": "Comoros, Union of the",
+        "country_code": "KM",
+        "nationality": "Comoran",
+        "country_iata_code": "KM",
+        "phone_code": "+269",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 41,
+        "country_name": "Congo",
+        "country_code": "CG",
+        "nationality": "Congolese (Congo)",
+        "country_iata_code": "CG",
+        "phone_code": "+242",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 39,
+        "country_name": "Congo, Democratic Republic of",
+        "country_code": "CD",
+        "nationality": "Congolese (DRC)",
+        "country_iata_code": "CD",
+        "phone_code": "+243",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 44,
+        "country_name": "Cook Islands",
+        "country_code": "CK",
+        "nationality": "Cook Islander",
+        "country_iata_code": "CK",
+        "phone_code": "+682",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 49,
+        "country_name": "Costa Rica",
+        "country_code": "CR",
+        "nationality": "Costa Rican",
+        "country_iata_code": "CR",
+        "phone_code": "+506",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 43,
+        "country_name": "Cote D'Ivoire, Ivory Coast, Republic of the",
+        "country_code": "CI",
+        "nationality": null,
+        "country_iata_code": "CI",
+        "phone_code": "+225",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 94,
+        "country_name": "Croatia",
+        "country_code": "HR",
+        "nationality": "Croatian",
+        "country_iata_code": "HR",
+        "phone_code": "+385",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 50,
+        "country_name": "Cuba",
+        "country_code": "CU",
+        "nationality": "Cuban",
+        "country_iata_code": "CU",
+        "phone_code": "+53",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 52,
+        "country_name": "Curacao",
+        "country_code": "CW",
+        "nationality": "Cura\u00e7aoan",
+        "country_iata_code": "CW",
+        "phone_code": "+599",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 54,
+        "country_name": "Cyprus, Republic of",
+        "country_code": "CY",
+        "nationality": "Cypriot",
+        "country_iata_code": "CY",
+        "phone_code": "+357",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 55,
+        "country_name": "Czech Republic",
+        "country_code": "CZ",
+        "nationality": "Czech",
+        "country_iata_code": "CZ",
+        "phone_code": "+420",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 58,
+        "country_name": "Denmark",
+        "country_code": "DK",
+        "nationality": "Danish",
+        "country_iata_code": "DK",
+        "phone_code": "+45",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 308,
+        "country_name": "dfed",
+        "country_code": "13",
+        "nationality": null,
+        "country_iata_code": "56",
+        "phone_code": "+66",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 57,
+        "country_name": "Djibouti",
+        "country_code": "DJ",
+        "nationality": "Djiboutians",
+        "country_iata_code": "DJ",
+        "phone_code": "+253",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 59,
+        "country_name": "Dominica, Commonwealth of",
+        "country_code": "DM",
+        "nationality": "Dominican",
+        "country_iata_code": "DM",
+        "phone_code": "+1767",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 60,
+        "country_name": "Dominican Republic",
+        "country_code": "DO",
+        "nationality": "Dominican",
+        "country_iata_code": "DO",
+        "phone_code": "+1809",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 304,
+        "country_name": "dsefd",
+        "country_code": "12",
+        "nationality": null,
+        "country_iata_code": "RE",
+        "phone_code": "+111",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 305,
+        "country_name": "dsss",
+        "country_code": "99",
+        "nationality": null,
+        "country_iata_code": "21",
+        "phone_code": "+23",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 62,
+        "country_name": "Ecuador",
+        "country_code": "EC",
+        "nationality": "Ecuadorian",
+        "country_iata_code": "EC",
+        "phone_code": "+593",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 64,
+        "country_name": "Egypt",
+        "country_code": "EG",
+        "nationality": "Egyptian",
+        "country_iata_code": "EG",
+        "phone_code": "+20",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 204,
+        "country_name": "El Salvador",
+        "country_code": "SV",
+        "nationality": "Salvadorian",
+        "country_iata_code": "SV",
+        "phone_code": "+503",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 86,
+        "country_name": "Equatorial Guinea",
+        "country_code": "GQ",
+        "nationality": "Equatoguinean",
+        "country_iata_code": "GQ",
+        "phone_code": "+240",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 65,
+        "country_name": "Eritrea",
+        "country_code": "ER",
+        "nationality": "Eritrean",
+        "country_iata_code": "ER",
+        "phone_code": "+291",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 63,
+        "country_name": "Estonia",
+        "country_code": "EE",
+        "nationality": "Estonian",
+        "country_iata_code": "EE",
+        "phone_code": "+372",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 67,
+        "country_name": "Ethiopia",
+        "country_code": "ET",
+        "nationality": "Ethiopian",
+        "country_iata_code": "ET",
+        "phone_code": "+251",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 72,
+        "country_name": "Faeroe Islands",
+        "country_code": "FO",
+        "nationality": "Faroe Islander",
+        "country_iata_code": "FO",
+        "phone_code": "+298",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 70,
+        "country_name": "Falkland Islands",
+        "country_code": "FK",
+        "nationality": "Falkland Islanders",
+        "country_iata_code": "FK",
+        "phone_code": "+500",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 69,
+        "country_name": "Fiji",
+        "country_code": "FJ",
+        "nationality": "Fijian",
+        "country_iata_code": "FJ",
+        "phone_code": "+679",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 68,
+        "country_name": "Finland",
+        "country_code": "FI",
+        "nationality": "Finnish",
+        "country_iata_code": "FI",
+        "phone_code": "+358",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 73,
+        "country_name": "France",
+        "country_code": "FR",
+        "nationality": "French",
+        "country_iata_code": "FR",
+        "phone_code": "+33",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 78,
+        "country_name": "French Guiana",
+        "country_code": "GF",
+        "nationality": "French Guianan",
+        "country_iata_code": "GF",
+        "phone_code": "+594",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 170,
+        "country_name": "French Polynesia",
+        "country_code": "PF",
+        "nationality": "French Polynesian",
+        "country_iata_code": "PF",
+        "phone_code": "+689",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 74,
+        "country_name": "Gabon, Gabonese Republic",
+        "country_code": "GA",
+        "nationality": "Gabonese",
+        "country_iata_code": "GA",
+        "phone_code": "+241",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 83,
+        "country_name": "Gambia",
+        "country_code": "GM",
+        "nationality": "Gambian",
+        "country_iata_code": "GM",
+        "phone_code": "+220",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 77,
+        "country_name": "Georgia",
+        "country_code": "GE",
+        "nationality": "Georgian",
+        "country_iata_code": "GE",
+        "phone_code": "+995",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 56,
+        "country_name": "Germany",
+        "country_code": "DE",
+        "nationality": "German",
+        "country_iata_code": "DE",
+        "phone_code": "+49",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 80,
+        "country_name": "Ghana",
+        "country_code": "GH",
+        "nationality": "Ghanaian",
+        "country_iata_code": "GH",
+        "phone_code": "+233",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 81,
+        "country_name": "Gibraltar",
+        "country_code": "GI",
+        "nationality": null,
+        "country_iata_code": "GI",
+        "phone_code": "+350",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 87,
+        "country_name": "Greece",
+        "country_code": "GR",
+        "nationality": "Greek",
+        "country_iata_code": "GR",
+        "phone_code": "+30",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 82,
+        "country_name": "Greenland",
+        "country_code": "GL",
+        "nationality": "Greenlandic",
+        "country_iata_code": "GL",
+        "phone_code": "+299",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 76,
+        "country_name": "Grenada",
+        "country_code": "GD",
+        "nationality": "Grenadian",
+        "country_iata_code": "GD",
+        "phone_code": "+1473",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 85,
+        "country_name": "Guadeloupe",
+        "country_code": "GP",
+        "nationality": "Guadeloupean",
+        "country_iata_code": "GP",
+        "phone_code": "+590",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 89,
+        "country_name": "Guam",
+        "country_code": "GU",
+        "nationality": "Guamanian",
+        "country_iata_code": "GU",
+        "phone_code": "+1671",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 88,
+        "country_name": "Guatemala",
+        "country_code": "GT",
+        "nationality": "Guatemalan",
+        "country_iata_code": "GT",
+        "phone_code": "+502",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 79,
+        "country_name": "Guernsey",
+        "country_code": "GG",
+        "nationality": "Giernesi",
+        "country_iata_code": "GG",
+        "phone_code": "+44",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 84,
+        "country_name": "Guinea, Revolutionary People's Rep'c of",
+        "country_code": "GN",
+        "nationality": "Guinean",
+        "country_iata_code": "GN",
+        "phone_code": "+224",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 90,
+        "country_name": "Guinea-Bissau",
+        "country_code": "GW",
+        "nationality": "Bissau \/ Guinean",
+        "country_iata_code": "GW",
+        "phone_code": "+245",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 91,
+        "country_name": "Guyana, Republic of",
+        "country_code": "GY",
+        "nationality": "Guyanese",
+        "country_iata_code": "GY",
+        "phone_code": "+592",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 95,
+        "country_name": "Haiti",
+        "country_code": "HT",
+        "nationality": "Haitian",
+        "country_iata_code": "HT",
+        "phone_code": "+509",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 93,
+        "country_name": "Honduras",
+        "country_code": "HN",
+        "nationality": "Honduran",
+        "country_iata_code": "HN",
+        "phone_code": "+504",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 92,
+        "country_name": "Hong Kong",
+        "country_code": "HK",
+        "nationality": "Hong Konger",
+        "country_iata_code": "HK",
+        "phone_code": "+852",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 96,
+        "country_name": "Hungary",
+        "country_code": "HU",
+        "nationality": "Hungarian",
+        "country_iata_code": "HU",
+        "phone_code": "+36",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 104,
+        "country_name": "Iceland",
+        "country_code": "IS",
+        "nationality": "Icelandic",
+        "country_iata_code": "IS",
+        "phone_code": "+354",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 101,
+        "country_name": "India",
+        "country_code": "IN",
+        "nationality": "Indian",
+        "country_iata_code": "IN",
+        "phone_code": "+91",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 97,
+        "country_name": "Indonesia",
+        "country_code": "ID",
+        "nationality": "Indonesian",
+        "country_iata_code": "ID",
+        "phone_code": "+62",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 103,
+        "country_name": "Iran",
+        "country_code": "IR",
+        "nationality": "Iranian",
+        "country_iata_code": "IR",
+        "phone_code": "+98",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 102,
+        "country_name": "Iraq",
+        "country_code": "IQ",
+        "nationality": "Iraqi",
+        "country_iata_code": "IQ",
+        "phone_code": "+964",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 98,
+        "country_name": "Ireland",
+        "country_code": "IE",
+        "nationality": "Irish",
+        "country_iata_code": "IE",
+        "phone_code": "+353",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 100,
+        "country_name": "Isle Of Man",
+        "country_code": "IM",
+        "nationality": "Manx",
+        "country_iata_code": "IM",
+        "phone_code": "+44",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 99,
+        "country_name": "Israel",
+        "country_code": "IL",
+        "nationality": "Israeli",
+        "country_iata_code": "IL",
+        "phone_code": "+972",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 105,
+        "country_name": "Italy",
+        "country_code": "IT",
+        "nationality": "Italian",
+        "country_iata_code": "IT",
+        "phone_code": "+39",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 107,
+        "country_name": "Jamaica",
+        "country_code": "JM",
+        "nationality": "Jamaican",
+        "country_iata_code": "JM",
+        "phone_code": "+1876",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 109,
+        "country_name": "Japan",
+        "country_code": "JP",
+        "nationality": "Japanese",
+        "country_iata_code": "JP",
+        "phone_code": "+81",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 106,
+        "country_name": "Jersey",
+        "country_code": "JE",
+        "nationality": "Islanders",
+        "country_iata_code": "JE",
+        "phone_code": "+44",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 108,
+        "country_name": "Jordan",
+        "country_code": "JO",
+        "nationality": "Jordanian",
+        "country_iata_code": "JO",
+        "phone_code": "+962",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 120,
+        "country_name": "Kazakhstan",
+        "country_code": "KZ",
+        "nationality": "Kazakh",
+        "country_iata_code": "KZ",
+        "phone_code": "+7",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 110,
+        "country_name": "Kenya",
+        "country_code": "KE",
+        "nationality": "Kenyan",
+        "country_iata_code": "KE",
+        "phone_code": "+254",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 127,
+        "country_name": "Kingdom of Lesotho",
+        "country_code": "LS",
+        "nationality": "Mosotho",
+        "country_iata_code": "LS",
+        "phone_code": "+266",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 113,
+        "country_name": "Kiribati",
+        "country_code": "KI",
+        "nationality": "Kiribati",
+        "country_iata_code": "KI",
+        "phone_code": "+686",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 116,
+        "country_name": "Korea (North)",
+        "country_code": "KP",
+        "nationality": "North Korean",
+        "country_iata_code": "KP",
+        "phone_code": "+850",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 296,
+        "country_name": "Kosovo",
+        "country_code": "XK",
+        "nationality": null,
+        "country_iata_code": "XK",
+        "phone_code": "+383",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 118,
+        "country_name": "Kuwait",
+        "country_code": "KW",
+        "nationality": "Kuwaiti",
+        "country_iata_code": "KW",
+        "phone_code": "+965",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 111,
+        "country_name": "Kyrgyzstan",
+        "country_code": "KG",
+        "nationality": "Kyrgyz",
+        "country_iata_code": "KG",
+        "phone_code": "+996",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 121,
+        "country_name": "Laos",
+        "country_code": "LA",
+        "nationality": "Lao",
+        "country_iata_code": "LA",
+        "phone_code": "+856",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 130,
+        "country_name": "Latvia",
+        "country_code": "LV",
+        "nationality": "Latvian",
+        "country_iata_code": "LV",
+        "phone_code": "+371",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 122,
+        "country_name": "Lebanon",
+        "country_code": "LB",
+        "nationality": "Lebanese",
+        "country_iata_code": "LB",
+        "phone_code": "+961",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 126,
+        "country_name": "Liberia",
+        "country_code": "LR",
+        "nationality": "Liberian",
+        "country_iata_code": "LR",
+        "phone_code": "+231",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 131,
+        "country_name": "Libya",
+        "country_code": "LY",
+        "nationality": "Libyan",
+        "country_iata_code": "LY",
+        "phone_code": "+218",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 124,
+        "country_name": "Liechtenstein",
+        "country_code": "LI",
+        "nationality": "Liechtensteiner",
+        "country_iata_code": "LI",
+        "phone_code": "+423",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 128,
+        "country_name": "Lithuania",
+        "country_code": "LT",
+        "nationality": "Lithuanian",
+        "country_iata_code": "LT",
+        "phone_code": "+370",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 129,
+        "country_name": "Luxembourg",
+        "country_code": "LU",
+        "nationality": "Luxembourger",
+        "country_iata_code": "LU",
+        "phone_code": "+352",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 143,
+        "country_name": "Macau",
+        "country_code": "MO",
+        "nationality": "Macanese",
+        "country_iata_code": "MO",
+        "phone_code": "+853",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 139,
+        "country_name": "Macedonia",
+        "country_code": "MK",
+        "nationality": "Macedonian",
+        "country_iata_code": "MK",
+        "phone_code": "+389",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 137,
+        "country_name": "Madagascar",
+        "country_code": "MG",
+        "nationality": "Malagasy",
+        "country_iata_code": "MG",
+        "phone_code": "+261",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 151,
+        "country_name": "Malawi",
+        "country_code": "MW",
+        "nationality": "Malawian",
+        "country_iata_code": "MW",
+        "phone_code": "+265",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 153,
+        "country_name": "Malaysia",
+        "country_code": "MY",
+        "nationality": "Malaysian",
+        "country_iata_code": "MY",
+        "phone_code": "+60",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 150,
+        "country_name": "Maldives",
+        "country_code": "MV",
+        "nationality": "Maldivian",
+        "country_iata_code": "MV",
+        "phone_code": "+960",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 140,
+        "country_name": "Mali, Republic of",
+        "country_code": "ML",
+        "nationality": "Malian",
+        "country_iata_code": "ML",
+        "phone_code": "+223",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 148,
+        "country_name": "Malta",
+        "country_code": "MT",
+        "nationality": "Maltese",
+        "country_iata_code": "MT",
+        "phone_code": "+356",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 138,
+        "country_name": "Marshall Islands",
+        "country_code": "MH",
+        "nationality": "Marshallese",
+        "country_iata_code": "MH",
+        "phone_code": "+692",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 145,
+        "country_name": "Martinique",
+        "country_code": "MQ",
+        "nationality": "Martinican",
+        "country_iata_code": "MQ",
+        "phone_code": "+596",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 146,
+        "country_name": "Mauritania",
+        "country_code": "MR",
+        "nationality": "Mauritanian",
+        "country_iata_code": "MR",
+        "phone_code": "+222",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 149,
+        "country_name": "Mauritius",
+        "country_code": "MU",
+        "nationality": "Mauritian",
+        "country_iata_code": "MU",
+        "phone_code": "+230",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 237,
+        "country_name": "Mayotte",
+        "country_code": "YT",
+        "nationality": "Mahoran",
+        "country_iata_code": "YT",
+        "phone_code": "+262",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 152,
+        "country_name": "Mexico",
+        "country_code": "MX",
+        "nationality": "Mexican",
+        "country_iata_code": "MX",
+        "phone_code": "+52",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 71,
+        "country_name": "Micronesia",
+        "country_code": "FM",
+        "nationality": "Micronesian",
+        "country_iata_code": "FM",
+        "phone_code": "+691",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 134,
+        "country_name": "Moldova",
+        "country_code": "MD",
+        "nationality": "Moldovan",
+        "country_iata_code": "MD",
+        "phone_code": "+373",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 133,
+        "country_name": "Monaco",
+        "country_code": "MC",
+        "nationality": "Monacan",
+        "country_iata_code": "MC",
+        "phone_code": "+377",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 142,
+        "country_name": "Mongolia",
+        "country_code": "MN",
+        "nationality": "Mongolian",
+        "country_iata_code": "MN",
+        "phone_code": "+976",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 135,
+        "country_name": "Montenegro",
+        "country_code": "ME",
+        "nationality": "Montenegrin",
+        "country_iata_code": "ME",
+        "phone_code": "+382",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 147,
+        "country_name": "Montserrat",
+        "country_code": "MS",
+        "nationality": "Montserratian",
+        "country_iata_code": "MS",
+        "phone_code": "+1664",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 132,
+        "country_name": "Morocco",
+        "country_code": "MA",
+        "nationality": "Moroccan",
+        "country_iata_code": "MA",
+        "phone_code": "+212",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 154,
+        "country_name": "Mozambique",
+        "country_code": "MZ",
+        "nationality": "Mozambican",
+        "country_iata_code": "MZ",
+        "phone_code": "+258",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 141,
+        "country_name": "Myanmar",
+        "country_code": "MM",
+        "nationality": "Burmese",
+        "country_iata_code": "MM",
+        "phone_code": "+95",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 155,
+        "country_name": "Namibia",
+        "country_code": "NA",
+        "nationality": "Namibian",
+        "country_iata_code": "NA",
+        "phone_code": "+264",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 164,
+        "country_name": "Nauru",
+        "country_code": "NR",
+        "nationality": "Nauruan",
+        "country_iata_code": "NR",
+        "phone_code": "+674",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 163,
+        "country_name": "Nepal",
+        "country_code": "NP",
+        "nationality": "Nepalese",
+        "country_iata_code": "NP",
+        "phone_code": "+977",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 161,
+        "country_name": "Netherlands",
+        "country_code": "NL",
+        "nationality": "Dutch",
+        "country_iata_code": "NL",
+        "phone_code": "+31",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 8,
+        "country_name": "Netherlands Antilles",
+        "country_code": "AN",
+        "nationality": "Netherlands Antillean",
+        "country_iata_code": "AN",
+        "phone_code": "+599",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 156,
+        "country_name": "New Caledonia",
+        "country_code": "NC",
+        "nationality": "New Caledonian",
+        "country_iata_code": "NC",
+        "phone_code": "+687",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 166,
+        "country_name": "New Zealand",
+        "country_code": "NZ",
+        "nationality": "New Zealand",
+        "country_iata_code": "NZ",
+        "phone_code": "+64",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 160,
+        "country_name": "Nicaragua",
+        "country_code": "NI",
+        "nationality": "Nicaraguan",
+        "country_iata_code": "NI",
+        "phone_code": "+505",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 157,
+        "country_name": "Niger, Republic of the",
+        "country_code": "NE",
+        "nationality": "Nigerien",
+        "country_iata_code": "NE",
+        "phone_code": "+227",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 159,
+        "country_name": "Nigeria",
+        "country_code": "NG",
+        "nationality": "Nigerian",
+        "country_iata_code": "NG",
+        "phone_code": "+234",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 165,
+        "country_name": "Niue, Republic of",
+        "country_code": "NU",
+        "nationality": "Niuean",
+        "country_iata_code": "NU",
+        "phone_code": "+683",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 158,
+        "country_name": "Norfolk Island",
+        "country_code": "NF",
+        "nationality": "Norfolk Islander",
+        "country_iata_code": "NF",
+        "phone_code": "+672",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 144,
+        "country_name": "Northern Mariana Islands",
+        "country_code": "MP",
+        "nationality": "Northern Mariana Islander",
+        "country_iata_code": "MP",
+        "phone_code": "+1670",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 162,
+        "country_name": "Norway",
+        "country_code": "NO",
+        "nationality": "Norwegian",
+        "country_iata_code": "NO",
+        "phone_code": "+47",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 167,
+        "country_name": "Oman",
+        "country_code": "OM",
+        "nationality": "Omani",
+        "country_iata_code": "OM",
+        "phone_code": "+968",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 173,
+        "country_name": "Pakistan",
+        "country_code": "PK",
+        "nationality": "Pakistani",
+        "country_iata_code": "PK",
+        "phone_code": "+92",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 179,
+        "country_name": "Palau",
+        "country_code": "PW",
+        "nationality": "Palauan",
+        "country_iata_code": "PW",
+        "phone_code": "+680",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 177,
+        "country_name": "Palestinian Territory, Occupied",
+        "country_code": "PS",
+        "nationality": "Palestinians",
+        "country_iata_code": "PS",
+        "phone_code": "+970",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 168,
+        "country_name": "Panama",
+        "country_code": "PA",
+        "nationality": "Panamanian",
+        "country_iata_code": "PA",
+        "phone_code": "+507",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 171,
+        "country_name": "Papua New Guinea",
+        "country_code": "PG",
+        "nationality": "Papua New Guinean",
+        "country_iata_code": "PG",
+        "phone_code": "+675",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 180,
+        "country_name": "Paraguay",
+        "country_code": "PY",
+        "nationality": "Paraguayan",
+        "country_iata_code": "PY",
+        "phone_code": "+595",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 169,
+        "country_name": "Peru",
+        "country_code": "PE",
+        "nationality": "Peruvian",
+        "country_iata_code": "PE",
+        "phone_code": "+51",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 172,
+        "country_name": "Philippines",
+        "country_code": "PH",
+        "nationality": "Philippine",
+        "country_iata_code": "PH",
+        "phone_code": "+63",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 174,
+        "country_name": "Poland",
+        "country_code": "PL",
+        "nationality": "Polish",
+        "country_iata_code": "PL",
+        "phone_code": "+48",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 178,
+        "country_name": "Portugal",
+        "country_code": "PT",
+        "nationality": "Portuguese",
+        "country_iata_code": "PT",
+        "phone_code": "+351",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 176,
+        "country_name": "Puerto Rico",
+        "country_code": "PR",
+        "nationality": "Puerto Ricans",
+        "country_iata_code": "PR",
+        "phone_code": "+1",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 181,
+        "country_name": "Qatar",
+        "country_code": "QA",
+        "nationality": "Qatari",
+        "country_iata_code": "QA",
+        "phone_code": "+974",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 189,
+        "country_name": "Republic of Seychelles",
+        "country_code": "SC",
+        "nationality": null,
+        "country_iata_code": "SC",
+        "phone_code": "+248",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 182,
+        "country_name": "Reunion",
+        "country_code": "RE",
+        "nationality": "R\u00e9unionese",
+        "country_iata_code": "RE",
+        "phone_code": "+262",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 309,
+        "country_name": "rgfds",
+        "country_code": "55",
+        "nationality": null,
+        "country_iata_code": "77",
+        "phone_code": "+99",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 183,
+        "country_name": "Romania",
+        "country_code": "RO",
+        "nationality": "Romanian",
+        "country_iata_code": "RO",
+        "phone_code": "+40",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 185,
+        "country_name": "Russian Federation",
+        "country_code": "RU",
+        "nationality": "Russian",
+        "country_iata_code": "RU",
+        "phone_code": "+7",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 186,
+        "country_name": "Rwanda",
+        "country_code": "RW",
+        "nationality": "Rwandan",
+        "country_iata_code": "RW",
+        "phone_code": "+250",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 26,
+        "country_name": "Saint Barthelemy",
+        "country_code": "BL",
+        "nationality": null,
+        "country_iata_code": "BL",
+        "phone_code": "+590",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 136,
+        "country_name": "Saint Martin",
+        "country_code": "MF",
+        "nationality": "Saint Martiner",
+        "country_iata_code": "MF",
+        "phone_code": "+1599",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 235,
+        "country_name": "Samoa",
+        "country_code": "WS",
+        "nationality": "Samoan",
+        "country_iata_code": "WS",
+        "phone_code": "+685",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 198,
+        "country_name": "San Marino Republic of",
+        "country_code": "SM",
+        "nationality": "Sammarinese",
+        "country_iata_code": "SM",
+        "phone_code": "+378",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 203,
+        "country_name": "Sao Tome and Principe",
+        "country_code": "ST",
+        "nationality": "Santomean",
+        "country_iata_code": "ST",
+        "phone_code": "+239",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 187,
+        "country_name": "Saudi Arabia",
+        "country_code": "SA",
+        "nationality": "Saudi",
+        "country_iata_code": "SA",
+        "phone_code": "+966",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 199,
+        "country_name": "Senegal Republic of",
+        "country_code": "SN",
+        "nationality": "Senegalese",
+        "country_iata_code": "SN",
+        "phone_code": "+221",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 184,
+        "country_name": "Serbia",
+        "country_code": "RS",
+        "nationality": "Serbian",
+        "country_iata_code": "RS",
+        "phone_code": "+381",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 197,
+        "country_name": "Sierra Leone",
+        "country_code": "SL",
+        "nationality": "Sierra Leonean",
+        "country_iata_code": "SL",
+        "phone_code": "+232",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 278,
+        "country_name": "simla",
+        "country_code": "HY",
+        "nationality": null,
+        "country_iata_code": "SI",
+        "phone_code": "+234",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 192,
+        "country_name": "Singapore",
+        "country_code": "SG",
+        "nationality": "Singaporean",
+        "country_iata_code": "SG",
+        "phone_code": "+65",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 205,
+        "country_name": "Sint Maarten",
+        "country_code": "SX",
+        "nationality": "Sint Maartener",
+        "country_iata_code": "SX",
+        "phone_code": "+1",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 196,
+        "country_name": "Slovakia",
+        "country_code": "SK",
+        "nationality": "Slovak",
+        "country_iata_code": "SK",
+        "phone_code": "+421",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 194,
+        "country_name": "Slovenia",
+        "country_code": "SI",
+        "nationality": "Slovenian",
+        "country_iata_code": "SI",
+        "phone_code": "+386",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 188,
+        "country_name": "Solomon Islands",
+        "country_code": "SB",
+        "nationality": "Solomon Islander",
+        "country_iata_code": "SB",
+        "phone_code": "+677",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 200,
+        "country_name": "Somalia",
+        "country_code": "SO",
+        "nationality": "Somali",
+        "country_iata_code": "SO",
+        "phone_code": "+252",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 238,
+        "country_name": "South Africa",
+        "country_code": "ZA",
+        "nationality": "South African",
+        "country_iata_code": "ZA",
+        "phone_code": "+027",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 117,
+        "country_name": "South Korea",
+        "country_code": "KR",
+        "nationality": "Korean",
+        "country_iata_code": "KR",
+        "phone_code": "+82",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 202,
+        "country_name": "South Sudan",
+        "country_code": "SS",
+        "nationality": "South Sudanese",
+        "country_iata_code": "SS",
+        "phone_code": "+211",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 66,
+        "country_name": "Spain",
+        "country_code": "ES",
+        "nationality": "Spanish",
+        "country_iata_code": "ES",
+        "phone_code": "+34",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 125,
+        "country_name": "Sri Lanka",
+        "country_code": "LK",
+        "nationality": "Sri Lankan",
+        "country_iata_code": "LK",
+        "phone_code": "+94",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 193,
+        "country_name": "St. Helena",
+        "country_code": "SH",
+        "nationality": "Saint Helenian",
+        "country_iata_code": "SH",
+        "phone_code": "+290",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 115,
+        "country_name": "St. Kitts and Nevis",
+        "country_code": "KN",
+        "nationality": "Kittitian",
+        "country_iata_code": "KN",
+        "phone_code": "+1869",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 123,
+        "country_name": "St. Lucia",
+        "country_code": "LC",
+        "nationality": "Saint Lucian",
+        "country_iata_code": "LC",
+        "phone_code": "+1758",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 175,
+        "country_name": "St. Pierre and Miquelon",
+        "country_code": "PM",
+        "nationality": null,
+        "country_iata_code": "PM",
+        "phone_code": "+508",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 228,
+        "country_name": "St. Vincent and the Grenadines",
+        "country_code": "VC",
+        "nationality": "Vincentian",
+        "country_iata_code": "VC",
+        "phone_code": "+1784",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 190,
+        "country_name": "Sudan",
+        "country_code": "SD",
+        "nationality": "Sudanese",
+        "country_iata_code": "SD",
+        "phone_code": "+249",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 201,
+        "country_name": "Suriname Republic of",
+        "country_code": "SR",
+        "nationality": "Surinamese",
+        "country_iata_code": "SR",
+        "phone_code": "+597",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 195,
+        "country_name": "Svalbard & Jan Mayen Islands",
+        "country_code": "SJ",
+        "nationality": "Norwegian",
+        "country_iata_code": "SJ",
+        "phone_code": "+47",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 207,
+        "country_name": "Swaziland",
+        "country_code": "SZ",
+        "nationality": "Eswatini",
+        "country_iata_code": "SZ",
+        "phone_code": "+268",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 191,
+        "country_name": "Sweden",
+        "country_code": "SE",
+        "nationality": "Swedish",
+        "country_iata_code": "SE",
+        "phone_code": "+46",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 42,
+        "country_name": "Switzerland",
+        "country_code": "CH",
+        "nationality": "Swiss",
+        "country_iata_code": "CH",
+        "phone_code": "+41",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 206,
+        "country_name": "Syria",
+        "country_code": "SY",
+        "nationality": "Syrian",
+        "country_iata_code": "SY",
+        "phone_code": "+963",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 220,
+        "country_name": "Taiwan",
+        "country_code": "TW",
+        "nationality": "Taiwanese",
+        "country_iata_code": "TW",
+        "phone_code": "+886",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 212,
+        "country_name": "Tajikistan",
+        "country_code": "TJ",
+        "nationality": "Tajikistani",
+        "country_iata_code": "TJ",
+        "phone_code": "+992",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 221,
+        "country_name": "Tanzania",
+        "country_code": "TZ",
+        "nationality": "Tanzanian",
+        "country_iata_code": "TZ",
+        "phone_code": "+255",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 211,
+        "country_name": "Thailand",
+        "country_code": "TH",
+        "nationality": "Thai",
+        "country_iata_code": "TH",
+        "phone_code": "+66",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 213,
+        "country_name": "Timor Leste",
+        "country_code": "TL",
+        "nationality": "Timorese",
+        "country_iata_code": "TL",
+        "phone_code": "+670",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 210,
+        "country_name": "Togo, Togolese Republic",
+        "country_code": "TG",
+        "nationality": "Togolese",
+        "country_iata_code": "TG",
+        "phone_code": "+228",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 216,
+        "country_name": "Tonga",
+        "country_code": "TO",
+        "nationality": "Tongan",
+        "country_iata_code": "TO",
+        "phone_code": "+676",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 218,
+        "country_name": "Trinidad and Tobago",
+        "country_code": "TT",
+        "nationality": "Trinidadian and Tobagonian",
+        "country_iata_code": "TT",
+        "phone_code": "+1868",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 215,
+        "country_name": "Tunisia",
+        "country_code": "TN",
+        "nationality": "Tunisian",
+        "country_iata_code": "TN",
+        "phone_code": "+216",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 217,
+        "country_name": "Turkey",
+        "country_code": "TR",
+        "nationality": "Turkish",
+        "country_iata_code": "TR",
+        "phone_code": "+90",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 214,
+        "country_name": "Turkmenistan",
+        "country_code": "TM",
+        "nationality": "Turkmenistan",
+        "country_iata_code": "TM",
+        "phone_code": "+993",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 208,
+        "country_name": "Turks and Caicos Islands",
+        "country_code": "TC",
+        "nationality": "Turks and Caicos Islander",
+        "country_iata_code": "TC",
+        "phone_code": "+1649",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 219,
+        "country_name": "Tuvalu",
+        "country_code": "TV",
+        "nationality": "Tuvaluan",
+        "country_iata_code": "TV",
+        "phone_code": "+688",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 223,
+        "country_name": "Uganda",
+        "country_code": "UG",
+        "nationality": "Ugandan",
+        "country_iata_code": "UG",
+        "phone_code": "+256",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 222,
+        "country_name": "Ukraine",
+        "country_code": "UA",
+        "nationality": "Ukrainian",
+        "country_iata_code": "UA",
+        "phone_code": "+380",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 2,
+        "country_name": "United Arab Emirates",
+        "country_code": "AE",
+        "nationality": "Emirati",
+        "country_iata_code": "AE",
+        "phone_code": "+971",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 75,
+        "country_name": "United Kingdom",
+        "country_code": "GB",
+        "nationality": "British",
+        "country_iata_code": "GB",
+        "phone_code": "+44",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 225,
+        "country_name": "United States",
+        "country_code": "US",
+        "nationality": "American",
+        "country_iata_code": "US",
+        "phone_code": "+1",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 224,
+        "country_name": "United States Minor Outlying Islands",
+        "country_code": "UM",
+        "nationality": "American Minor Outlying Islander",
+        "country_iata_code": "UM",
+        "phone_code": "+1",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 226,
+        "country_name": "Uruguay",
+        "country_code": "UY",
+        "nationality": "Uruguayan",
+        "country_iata_code": "UY",
+        "phone_code": "+598",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 227,
+        "country_name": "Uzbekistan",
+        "country_code": "UZ",
+        "nationality": "Uzbek",
+        "country_iata_code": "UZ",
+        "phone_code": "+998",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 233,
+        "country_name": "Vanuatu",
+        "country_code": "VU",
+        "nationality": "Vanuatuan",
+        "country_iata_code": "VU",
+        "phone_code": "+678",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 229,
+        "country_name": "Venezuela",
+        "country_code": "VE",
+        "nationality": "Venezuelan",
+        "country_iata_code": "VE",
+        "phone_code": "+58",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 232,
+        "country_name": "Vietnam",
+        "country_code": "VN",
+        "nationality": "Vietnamese",
+        "country_iata_code": "VN",
+        "phone_code": "+84",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 230,
+        "country_name": "Virgin Islands (GB)",
+        "country_code": "VG",
+        "nationality": "British Virgin Islander",
+        "country_iata_code": "VG",
+        "phone_code": "+1284",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 231,
+        "country_name": "Virgin Islands (US)",
+        "country_code": "VI",
+        "nationality": "American Virgin Islander",
+        "country_iata_code": "VI",
+        "phone_code": "+1340",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 234,
+        "country_name": "Wallis and Futuna Islands",
+        "country_code": "WF",
+        "nationality": "Wallisian \/ Futunan",
+        "country_iata_code": "WF",
+        "phone_code": "+681",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 306,
+        "country_name": "weds",
+        "country_code": "57",
+        "nationality": null,
+        "country_iata_code": "25",
+        "phone_code": "+35",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 236,
+        "country_name": "Yemen",
+        "country_code": "YE",
+        "nationality": "Yemeni",
+        "country_iata_code": "YE",
+        "phone_code": "+967",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 239,
+        "country_name": "zimb",
+        "country_code": "ZM",
+        "nationality": null,
+        "country_iata_code": "ZM",
+        "phone_code": "+260",
+        "status": "A",
+        "language": "EN"
+    },
+    {
+        "country_id": 240,
+        "country_name": "Zimbabwe",
+        "country_code": "ZW",
+        "nationality": null,
+        "country_iata_code": "ZW",
+        "phone_code": "+263",
+        "status": "A",
+        "language": "EN"
+    }
+]
