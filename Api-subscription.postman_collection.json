@@ -1,0 +1,456 @@
+{
+	"info": {
+		"_postman_id": "605d587c-dfc5-4671-81b3-738cde401581",
+		"name": "Api-subscription",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "17769850"
+	},
+	"item": [
+		{
+			"name": "register",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"name\":\"saravanan\",\n    \"email\":\"saravananpak1997@gmail.com\",\n    \"password\":\"3456789\",\n    \"tier_id\":2\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost/Api_monetization_platform/public/api/register",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"path": [
+						"Api_monetization_platform",
+						"public",
+						"api",
+						"register"
+					]
+				}
+			},
+			"response": [
+				{
+					"name": "success",
+					"originalRequest": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"name\":\"saravanan\",\n    \"email\":\"saravananpak1997@gmail.com\",\n    \"password\":\"3456789\",\n    \"tier_id\":2\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost/Api_monetization_platform/public/api/register",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"path": [
+								"Api_monetization_platform",
+								"public",
+								"api",
+								"register"
+							]
+						}
+					},
+					"status": "OK",
+					"code": 200,
+					"_postman_previewlanguage": "json",
+					"header": [
+						{
+							"key": "Date",
+							"value": "Tue, 29 Jul 2025 18:26:47 GMT"
+						},
+						{
+							"key": "Server",
+							"value": "Apache/2.4.58 (Ubuntu)"
+						},
+						{
+							"key": "Cache-Control",
+							"value": "no-cache, private"
+						},
+						{
+							"key": "Access-Control-Allow-Origin",
+							"value": "*"
+						},
+						{
+							"key": "Keep-Alive",
+							"value": "timeout=5, max=100"
+						},
+						{
+							"key": "Connection",
+							"value": "Keep-Alive"
+						},
+						{
+							"key": "Transfer-Encoding",
+							"value": "chunked"
+						},
+						{
+							"key": "Content-Type",
+							"value": "application/json"
+						}
+					],
+					"cookie": [],
+					"body": "{\n    \"status\": \"success\",\n    \"status_code\": 200,\n    \"token\": \"1|vi8L9ukfmQxoEzDHGUw9cDAIdm45zMFcBDnv955Vbd0f03a4\"\n}"
+				}
+			]
+		},
+		{
+			"name": "userDetails",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "vi8L9ukfmQxoEzDHGUw9cDAIdm45zMFcBDnv955Vbd0f03a4",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [
+					{
+						"key": "token",
+						"value": "1|knJgkUxFz96cJ2eMR2f6oYPva9yqfWC8L11nIAsa50521eb0",
+						"type": "text"
+					},
+					{
+						"key": "Authorization",
+						"value": "",
+						"type": "text",
+						"disabled": true
+					}
+				],
+				"url": {
+					"raw": "http://localhost/Api_monetization_platform/public/api/userDetails",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"path": [
+						"Api_monetization_platform",
+						"public",
+						"api",
+						"userDetails"
+					]
+				}
+			},
+			"response": [
+				{
+					"name": "success",
+					"originalRequest": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "token",
+								"value": "1|knJgkUxFz96cJ2eMR2f6oYPva9yqfWC8L11nIAsa50521eb0",
+								"type": "text"
+							},
+							{
+								"key": "Authorization",
+								"value": "",
+								"type": "text",
+								"disabled": true
+							}
+						],
+						"url": {
+							"raw": "http://localhost/Api_monetization_platform/public/api/userDetails",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"path": [
+								"Api_monetization_platform",
+								"public",
+								"api",
+								"userDetails"
+							]
+						}
+					},
+					"status": "OK",
+					"code": 200,
+					"_postman_previewlanguage": "json",
+					"header": [
+						{
+							"key": "Date",
+							"value": "Tue, 29 Jul 2025 21:24:48 GMT"
+						},
+						{
+							"key": "Server",
+							"value": "Apache/2.4.58 (Ubuntu)"
+						},
+						{
+							"key": "Vary",
+							"value": "Authorization"
+						},
+						{
+							"key": "Cache-Control",
+							"value": "no-cache, private"
+						},
+						{
+							"key": "Access-Control-Allow-Origin",
+							"value": "*"
+						},
+						{
+							"key": "Keep-Alive",
+							"value": "timeout=5, max=100"
+						},
+						{
+							"key": "Connection",
+							"value": "Keep-Alive"
+						},
+						{
+							"key": "Transfer-Encoding",
+							"value": "chunked"
+						},
+						{
+							"key": "Content-Type",
+							"value": "application/json"
+						}
+					],
+					"cookie": [],
+					"body": "{\n    \"todayUsage\": 14,\n    \"subscriptionPlanName\": \"Free\",\n    \"extraCallUsed\": 5\n}"
+				}
+			]
+		},
+		{
+			"name": "login",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "token",
+						"value": "1|knJgkUxFz96cJ2eMR2f6oYPva9yqfWC8L11nIAsa50521eb0",
+						"type": "text"
+					},
+					{
+						"key": "Authorization",
+						"value": "",
+						"type": "text",
+						"disabled": true
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"email\": \"saravananpak1997@gmail.com\",\n    \"password\": \"3456789\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost/Api_monetization_platform/public/api/login",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"path": [
+						"Api_monetization_platform",
+						"public",
+						"api",
+						"login"
+					]
+				}
+			},
+			"response": [
+				{
+					"name": "success",
+					"originalRequest": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "token",
+								"value": "1|knJgkUxFz96cJ2eMR2f6oYPva9yqfWC8L11nIAsa50521eb0",
+								"type": "text"
+							},
+							{
+								"key": "Authorization",
+								"value": "",
+								"type": "text",
+								"disabled": true
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"email\": \"saravananpak1997@gmail.com\",\n    \"password\": \"3456789\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost/Api_monetization_platform/public/api/login",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"path": [
+								"Api_monetization_platform",
+								"public",
+								"api",
+								"login"
+							]
+						}
+					},
+					"status": "OK",
+					"code": 200,
+					"_postman_previewlanguage": "json",
+					"header": [
+						{
+							"key": "Date",
+							"value": "Tue, 29 Jul 2025 19:07:31 GMT"
+						},
+						{
+							"key": "Server",
+							"value": "Apache/2.4.58 (Ubuntu)"
+						},
+						{
+							"key": "Cache-Control",
+							"value": "no-cache, private"
+						},
+						{
+							"key": "Access-Control-Allow-Origin",
+							"value": "*"
+						},
+						{
+							"key": "Keep-Alive",
+							"value": "timeout=5, max=100"
+						},
+						{
+							"key": "Connection",
+							"value": "Keep-Alive"
+						},
+						{
+							"key": "Transfer-Encoding",
+							"value": "chunked"
+						},
+						{
+							"key": "Content-Type",
+							"value": "application/json"
+						}
+					],
+					"cookie": [],
+					"body": "{\n    \"token\": \"bF3uVMQJ2mH82jnpcOr2v2EQkgHbP0MKXdRWp33888acee3a\"\n}"
+				}
+			]
+		},
+		{
+			"name": "data",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "bF3uVMQJ2mH82jnpcOr2v2EQkgHbP0MKXdRWp33888acee3a",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost/Api_monetization_platform/public/api/data",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"path": [
+						"Api_monetization_platform",
+						"public",
+						"api",
+						"data"
+					]
+				}
+			},
+			"response": [
+				{
+					"name": "failed",
+					"originalRequest": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost/Api_monetization_platform/public/api/data",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"path": [
+								"Api_monetization_platform",
+								"public",
+								"api",
+								"data"
+							]
+						}
+					},
+					"status": "Too Many Requests",
+					"code": 429,
+					"_postman_previewlanguage": "json",
+					"header": [
+						{
+							"key": "Date",
+							"value": "Tue, 29 Jul 2025 20:26:17 GMT"
+						},
+						{
+							"key": "Server",
+							"value": "Apache/2.4.58 (Ubuntu)"
+						},
+						{
+							"key": "Vary",
+							"value": "Authorization"
+						},
+						{
+							"key": "Cache-Control",
+							"value": "no-cache, private"
+						},
+						{
+							"key": "Access-Control-Allow-Origin",
+							"value": "*"
+						},
+						{
+							"key": "Keep-Alive",
+							"value": "timeout=5, max=100"
+						},
+						{
+							"key": "Connection",
+							"value": "Keep-Alive"
+						},
+						{
+							"key": "Transfer-Encoding",
+							"value": "chunked"
+						},
+						{
+							"key": "Content-Type",
+							"value": "application/json"
+						}
+					],
+					"cookie": [],
+					"body": "{\n    \"status\": \"failed\",\n    \"status_code\": 429,\n    \"error\": \"Your Limit Reached\"\n}"
+				}
+			]
+		}
+	]
+}
