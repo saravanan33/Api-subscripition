@@ -101,7 +101,3 @@ To deploy this project run
     php artisan GenerateDailyBill:GenerateDailyBill
 ```
 
-
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
